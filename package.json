@@ -10,7 +10,7 @@
     "framer-motion": "^13.4.0",
     "postcss": "^8.5.28",
     "react": "^19.3.0",
-    "react-dom": "^19.1.0",
+    "react-dom": "^19.3.0",
     "tailwindcss": "^4.3.3",
     "web-vitals": "^5.1.0"
   },
